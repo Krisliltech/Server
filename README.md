@@ -1,4 +1,4 @@
-## How to run project
+## How to run the project
 
 - Run yarn to install node modules
 - Create a .env file and fill in the various variables from the envConfig.ts
